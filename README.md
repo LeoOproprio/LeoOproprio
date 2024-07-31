@@ -1,0 +1,5 @@
+-  Hello, I’m Leo but my web name is LeoOproprio
+-  I'm from Brazil
+-  I’m interested in things about technology and programming
+-  I’m currently learning programming
+-  My age is 15 and I'm studying to be an software engineer
